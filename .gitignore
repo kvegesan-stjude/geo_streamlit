@@ -1,2 +1,3 @@
 geo_streamlit_env/
 .env/
+*.csv

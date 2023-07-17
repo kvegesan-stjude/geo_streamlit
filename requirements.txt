@@ -3,3 +3,4 @@ GEOparse
 biopython
 streamlit
 bs4
+lxml
