@@ -5,7 +5,10 @@ The first thing you will need is an api key from NCBI to use the Entrez API. Thi
 
 You can get the API key from https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us
 
-Once you have the API key, create a python virtual environment and activate it. https://docs.python.org/3/library/venv.html
+Once you have the API key, create a python virtual environment and activate it.
+
+If this is your first time using python virtual environments, please follow the instructions here:
+https://docs.python.org/3/library/venv.html
 
 Install the requirements using
 
