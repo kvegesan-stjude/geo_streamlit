@@ -1,0 +1,5 @@
+pandas
+GEOparse
+biopython
+streamlit
+bs4
