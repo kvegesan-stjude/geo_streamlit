@@ -10,12 +10,13 @@
 
 ## Install the requirements using
 
-''''
+```
+
 pip install -r requirements.txt
-''''
+```
 
 Run the app using
 
-''''
+```
 streamlit run Home.py
-''''
+```
